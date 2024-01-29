@@ -38,13 +38,4 @@ def generate_password(tot_letters, tot_digits, tot_symbols):
 
 
 let, dig, sym = user_input()
-pwd = generate_password(let, dig, sym)
-
-print(pwd)
-
-"""
-Things learned:
- - random library (choice(), shuffle())
- - string library (letters, digits, symbols)
- - creating a list with a percentage of specific elements
-"""
+print(generate_password(let, dig, sym))
