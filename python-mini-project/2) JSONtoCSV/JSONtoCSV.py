@@ -1,3 +1,7 @@
+# Python JSON to CSV
+# Python application that converts data from JSON format into a CSV file
+
+
 import json
 
 
@@ -16,9 +20,3 @@ try:
 
 except Exception as e:
     print(e)
-
-"""
-Things learned:
- - JSON in Python (reading/writing from/in JSON)
- - formatting data in CSV (categories/values)
-"""
