@@ -10,3 +10,6 @@
 - ✔️ **30 Jan 2024:** Completed 2 projects
 - ⏳ *............................*
 
+**Notes:**
+- 📚 Libraries used till now: json, random, string, os
+- 
