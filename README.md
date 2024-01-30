@@ -3,6 +3,6 @@
 
 📅 Progress: 4/103 projects
 
-29/01/2024: 3 projects
-30/01/2024: 1 project
+29/01/2024: 3 projects \n
+30/01/2024: 1 project \n
 ..........
