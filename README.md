@@ -1,4 +1,3 @@
-# mini-projects-py
 🐍 Python mini-projects applications recreated and optimized from [Python Mini Projects](https://python-world.github.io/python-mini-projects/#/)
 
 **Progress:**
