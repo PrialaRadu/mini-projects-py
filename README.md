@@ -12,3 +12,4 @@
 
 **Notes:**
 - 📚 Libraries used till now: json, random, string, os
+- 💡 Concepts used till now: Data structures, Working with randomness, Error handling, File handling, Operating system interaction
