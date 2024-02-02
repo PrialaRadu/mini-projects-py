@@ -11,7 +11,7 @@
 - ✔️ **02 Feb 2024:** Completed 1 project
 - ⏳ *............................*
 
-**Notes:**
+
 📚 **Libraries/Modules** used till now:
 - json, random, string, os, re, platform
  
