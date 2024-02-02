@@ -12,7 +12,8 @@
 - ⏳ *............................*
 
 **Notes:**
-📚 Libraries/Modules used till now:
+📚 **Libraries/Modules** used till now:
 - json, random, string, os, re, platform
-💡 Concepts used till now:
+ 
+💡 **Concepts** used till now:
 - Data structures, Working with randomness, Error handling, File handling, Operating system interaction, JSON data, CSV, RegEx, console-based UI game, Website blocking
