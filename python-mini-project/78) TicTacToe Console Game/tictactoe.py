@@ -61,5 +61,5 @@ def tic_tac_toe(board, player='X'):
         player = 'O' if player == 'X' else 'X'
 
 
-# Starts the TicTacToe game with values from 1 to 9, values used to showcase each position for placements
+# Starts the TicTacToe game empty values
 tic_tac_toe({i: ' ' for i in range(1, 10)})

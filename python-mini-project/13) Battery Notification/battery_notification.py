@@ -1,3 +1,5 @@
+# System notification that alerts the user if battery is running low
+
 # Used for retrieving battery information
 import psutil
 # Used for sending a system notification
@@ -14,7 +16,7 @@ def battery_notification(battery):
         notification.notify(
             title="Low Battery",
             message=f"Your Battery is running low. Percentage: {battery.percent}."
-                    f" Time left: {int(battery.secsleft/60)} minutes",
+                    f"Time left: {int(battery.secsleft / 60)} minutes.",
             timeout=5
         )
 

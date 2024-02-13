@@ -61,7 +61,7 @@ if platform.system() == "Windows":
 elif platform.system() == "Linux":
     path_to_hosts = r"/etc/hosts"
 else:
-    path_to_hosts = r"undefined"
+    path_to_hosts = "undefined"
 
 localhost = "127.0.0.1"
 websites_to_be_blocked = [r"https://www.facebook.com/", r"https://www.instagram.com/", r"https://www.tiktok.com"]
