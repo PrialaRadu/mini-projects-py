@@ -6,13 +6,14 @@ import random
 
 # Retrieves and validates user's input on number of games
 def get_user_games():
-    user_games = 0
-    try:
-        user_games = int(input("How many games do you want to play? "))
-        if user_games < 1:
-            raise ValueError('Type an integer greater than 0! ')
-    except ValueError:
-        print('Type a valid integer! ')
+    while True:
+        try:
+            user_games = int(input("How many games do you want to play? "))
+            if user_games < 1:
+                raise ValueError('Type an integer greater than 0! ')
+            break
+        except ValueError:
+            print('Type a valid integer! ')
     return user_games
 
 
@@ -42,4 +43,5 @@ def rock_paper_scissors(games):
         games -= 1
 
 
-rock_paper_scissors(get_user_games())
+games_count = get_user_games()
+rock_paper_scissors(games_count)
