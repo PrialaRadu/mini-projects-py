@@ -1,7 +1,7 @@
 🐍 Python mini-projects applications recreated and optimized from [Python Mini Projects](https://python-world.github.io/python-mini-projects/#/)
 
 **Progress:**
-- 📅 Completed projects: 9/103
+- 📅 Completed projects: 10/103
 
 📚 **Libraries/Modules** used till now:
 - json, random, string, os, re, platform, psutil, plyer
@@ -14,4 +14,4 @@
 - ✔️ **30 Jan 2024:** Completed 2 projects (Text File Analysis, Random Word from Text File)
 - ✔️ **01 Feb 2024:** Completed 2 projects (Unique Words from Text File, TicTacToe Console Game)
 - ✔️ **02 Feb 2024:** Completed 1 project (Website Blocker and Unblocker)
-- ✔️ **13 Feb 2024:** Completed 1 project (Battery Notification)
+- ✔️ **13 Feb 2024:** Completed 2 projects (Battery Notification, Rock Paper Scissors Game)
